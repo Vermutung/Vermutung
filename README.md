@@ -1,2 +1,23 @@
+```java
+public class Vermutung {
+    public static void main(String[] args) {
+        String reader == // You are the reader
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+        if ("intelligent".equals(reader)) {
+            System.out.println(Vermutung);
+        } else {
+            System.out.println("This Print will never come because you are intelligent");
+        }
+    }
+}
+```
+
+
+```console
+OUTPUT
+-------------
+Vermutung:
+[1] Aspiring application developer
+[2] UI/UX Designer
+[3]	Stubborn
+```
