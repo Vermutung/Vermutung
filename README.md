@@ -19,6 +19,7 @@ OUTPUT
 Vermutung:
 [1] Aspiring application developer
 [2] UI/UX Designer
-[3]	Stubborn
-[4]	Inventive
+[3] Stubborn
+[4] Inventive
+
 ```
