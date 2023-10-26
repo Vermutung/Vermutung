@@ -6,7 +6,7 @@ public class Readme {
         if ("intelligent".equals(reader)) {
             System.out.println(Vermutung);
         } else {
-            System.out.println("This Print will never come because you are intelligent");
+            System.out.println("This Print will never come because you are intelligent :)");
         }
     }
 }
@@ -21,5 +21,6 @@ Vermutung:
 [2] UI/UX Designer
 [3] Stubborn
 [4] Inventive
+-------------
 
 ```
