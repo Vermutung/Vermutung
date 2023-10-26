@@ -1,5 +1,5 @@
 ```java
-public class Vermutung {
+public class VermutungRepo {
     public static void main(String[] args) {
         String reader == // You are the reader
 
