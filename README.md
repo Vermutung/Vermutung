@@ -1,6 +1,6 @@
 ```java
 public class Readme {
-    public static void main() {
+    public static void main(String[] args) {
         String reader == // You are the reader
 
         if ("intelligent".equals(reader)) {
